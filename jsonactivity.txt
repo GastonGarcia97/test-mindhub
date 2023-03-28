@@ -1,0 +1,8 @@
+{
+"nombre":"Gaston",
+"apellido":"Garcia",
+"edad":25,
+"mascota":"si".
+"mascotas":["Scooby","Manchi"]
+
+}
